@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# run: source <(curl -s https://raw.githubusercontent.com/qrpike/CentOS-6-Quick-Install-Scripts/master/installOpenVZ.sh)
+# run: source <(curl -s https://raw.githubusercontent.com/arsanto/installYT/master/install.sh)
 
 # youtube-upload
 wget https://bootstrap.pypa.io/ez_setup.py -O - | python
