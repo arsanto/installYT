@@ -14,7 +14,7 @@ python setup.py install
 
 # youtube-dl
 
-sudo curl https://yt-dl.org/downloads/2014.07.30/youtube-dl -o /usr/local/bin/youtube-dl
+sudo curl https://yt-dl.org/latest/youtube-dl -o /usr/local/bin/youtube-dl
 sudo chmod a+x /usr/local/bin/youtube-dl
 
 # ffmpeg
