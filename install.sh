@@ -127,4 +127,6 @@ hash -r
 
 clear
 
+ffmpeg -version
+
 echo "selesai"
