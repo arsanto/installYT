@@ -2,9 +2,9 @@
 
 wget https://raw.githubusercontent.com/arsanto/installYT/master/lastest.sh
 
-chmod +x install.sh
+chmod +x lastest.sh
 
-./install.sh
+./lastest.sh
 
 ########################
 
