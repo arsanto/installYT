@@ -2,7 +2,7 @@
 
 wget https://raw.githubusercontent.com/arsanto/installYT/master/install.sh
 
-chmod 0755 install.sh
+chmod x+ install.sh
 
 ./install.sh
 
