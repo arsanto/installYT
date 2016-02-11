@@ -1,6 +1,6 @@
 # installYT
 
-wget https://raw.githubusercontent.com/arsanto/installYT/master/install.sh
+wget https://raw.githubusercontent.com/arsanto/installYT/master/lastest.sh
 
 chmod +x install.sh
 
