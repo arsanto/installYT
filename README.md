@@ -1,4 +1,4 @@
-# installYT
+# installYT CENTOS 7 64
 
 wget https://raw.githubusercontent.com/arsanto/installYT/master/lastest.sh
 
