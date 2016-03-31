@@ -5,7 +5,7 @@ wget https://raw.githubusercontent.com/arsanto/installYT/master/last.sh && chmod
 
 low ram using 
 
-https://raw.githubusercontent.com/arsanto/installYT/master/lastest.sh && chmod +x lastest.sh && ./lastest.sh
+wget https://raw.githubusercontent.com/arsanto/installYT/master/lastest.sh && chmod +x lastest.sh && ./lastest.sh
 
 ########################
 
