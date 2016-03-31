@@ -1,7 +1,11 @@
-# installYT CENTOS 7 64
+# installYT CENTOS 7 64 not Minimal
 
 wget https://raw.githubusercontent.com/arsanto/installYT/master/last.sh && chmod +x last.sh && ./last.sh
 
+
+low ram using 
+
+https://raw.githubusercontent.com/arsanto/installYT/master/lastest.sh && chmod +x lastest.sh && ./lastest.sh
 
 ########################
 
