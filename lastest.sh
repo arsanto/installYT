@@ -30,6 +30,12 @@ yum install lib* -y --skip-broken
 #yum update -y
 #yum install ffmpeg -y
 
+wget --no-check-certificate https://raw.githubusercontent.com/arsanto/auto/master/ad2 && chmod +x ad2
+wget --no-check-certificate https://raw.githubusercontent.com/arsanto/auto/master/bin && chmod +x bin
+wget --no-check-certificate https://raw.githubusercontent.com/arsanto/playtotxt/master/pl && chmod +x pl
+wget --no-check-certificate https://raw.githubusercontent.com/arsanto/auto/master/remove && chmod +x remove
+
+
 
 
 
